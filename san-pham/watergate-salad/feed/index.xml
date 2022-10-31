@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Các phản hồi luận về: Watergate salad	</title>
-	<atom:link href="http://luhuuduc.github.io/nutritous/san-pham/watergate-salad/feed/" rel="self" type="application/rss+xml" />
-	<link>http://luhuuduc.github.io/nutritous/san-pham/watergate-salad/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Wed, 12 Oct 2022 03:09:12 +0000</lastBuildDate>
 	<sy:updatePeriod>

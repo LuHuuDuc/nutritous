@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Seven Up &#8211; Cửa Hàng</title>
-	<atom:link href="http://luhuuduc.github.io/nutritous/danh-muc-san-pham/seven-up/feed/" rel="self" type="application/rss+xml" />
-	<link>http://luhuuduc.github.io/nutritous</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Tue, 18 Oct 2022 07:51:09 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Mimami Tea Green</title>
-		<link>http://luhuuduc.github.io/nutritous/san-pham/mimami-tea-green-2/</link>
-					<comments>http://luhuuduc.github.io/nutritous/san-pham/mimami-tea-green-2/#respond</comments>
+		<link>./../../../san-pham/mimami-tea-green-2/index.html</link>
+					<comments>./../../../san-pham/mimami-tea-green-2/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Sat, 15 Oct 2022 14:33:35 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/nutritous/?post_type=product&#038;p=934</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=934</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -62,19 +62,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/nutritous/san-pham/mimami-tea-green-2/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../san-pham/mimami-tea-green-2/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ice Cream Milk</title>
-		<link>http://luhuuduc.github.io/nutritous/san-pham/ice-cream-milk-2/</link>
-					<comments>http://luhuuduc.github.io/nutritous/san-pham/ice-cream-milk-2/#respond</comments>
+		<link>./../../../san-pham/ice-cream-milk-2/index.html</link>
+					<comments>./../../../san-pham/ice-cream-milk-2/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Sat, 15 Oct 2022 14:32:28 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/nutritous/?post_type=product&#038;p=929</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=929</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -110,19 +110,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/nutritous/san-pham/ice-cream-milk-2/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../san-pham/ice-cream-milk-2/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Green tea</title>
-		<link>http://luhuuduc.github.io/nutritous/san-pham/green-papaya-salad-2/</link>
-					<comments>http://luhuuduc.github.io/nutritous/san-pham/green-papaya-salad-2/#respond</comments>
+		<link>./../../../san-pham/green-papaya-salad-2/index.html</link>
+					<comments>./../../../san-pham/green-papaya-salad-2/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Sat, 15 Oct 2022 14:32:25 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/nutritous/?post_type=product&#038;p=928</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=928</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -158,19 +158,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/nutritous/san-pham/green-papaya-salad-2/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../san-pham/green-papaya-salad-2/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Fresh tea</title>
-		<link>http://luhuuduc.github.io/nutritous/san-pham/cream-fresh-2/</link>
-					<comments>http://luhuuduc.github.io/nutritous/san-pham/cream-fresh-2/#respond</comments>
+		<link>./../../../san-pham/cream-fresh-2/index.html</link>
+					<comments>./../../../san-pham/cream-fresh-2/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Sat, 15 Oct 2022 14:31:46 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/nutritous/?post_type=product&#038;p=927</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=927</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -206,19 +206,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/nutritous/san-pham/cream-fresh-2/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../san-pham/cream-fresh-2/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Cream Bong Ngo</title>
-		<link>http://luhuuduc.github.io/nutritous/san-pham/cream-bong-ngo-2/</link>
-					<comments>http://luhuuduc.github.io/nutritous/san-pham/cream-bong-ngo-2/#respond</comments>
+		<link>./../../../san-pham/cream-bong-ngo-2/index.html</link>
+					<comments>./../../../san-pham/cream-bong-ngo-2/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Sat, 15 Oct 2022 14:31:13 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/nutritous/?post_type=product&#038;p=923</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=923</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -254,19 +254,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/nutritous/san-pham/cream-bong-ngo-2/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../san-pham/cream-bong-ngo-2/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Clementine tea</title>
-		<link>http://luhuuduc.github.io/nutritous/san-pham/clementine-cake-2/</link>
-					<comments>http://luhuuduc.github.io/nutritous/san-pham/clementine-cake-2/#respond</comments>
+		<link>./../../../san-pham/clementine-cake-2/index.html</link>
+					<comments>./../../../san-pham/clementine-cake-2/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Sat, 15 Oct 2022 14:30:39 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/nutritous/?post_type=product&#038;p=922</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=922</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -302,19 +302,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/nutritous/san-pham/clementine-cake-2/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../san-pham/clementine-cake-2/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Rice Yogurt Coffee</title>
-		<link>http://luhuuduc.github.io/nutritous/san-pham/rice-yogurt-coffee/</link>
-					<comments>http://luhuuduc.github.io/nutritous/san-pham/rice-yogurt-coffee/#respond</comments>
+		<link>./../../../san-pham/rice-yogurt-coffee/index.html</link>
+					<comments>./../../../san-pham/rice-yogurt-coffee/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 01:37:32 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/nutritous/?post_type=product&#038;p=884</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=884</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -350,19 +350,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/nutritous/san-pham/rice-yogurt-coffee/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../san-pham/rice-yogurt-coffee/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Orange Fruit Juice</title>
-		<link>http://luhuuduc.github.io/nutritous/san-pham/orange-fruit-juice/</link>
-					<comments>http://luhuuduc.github.io/nutritous/san-pham/orange-fruit-juice/#respond</comments>
+		<link>./../../../san-pham/orange-fruit-juice/index.html</link>
+					<comments>./../../../san-pham/orange-fruit-juice/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 01:34:26 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/nutritous/?post_type=product&#038;p=883</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=883</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -398,19 +398,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/nutritous/san-pham/orange-fruit-juice/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../san-pham/orange-fruit-juice/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Mimami Tea Green</title>
-		<link>http://luhuuduc.github.io/nutritous/san-pham/mimami-tea-green/</link>
-					<comments>http://luhuuduc.github.io/nutritous/san-pham/mimami-tea-green/#respond</comments>
+		<link>./../../../san-pham/mimami-tea-green/index.html</link>
+					<comments>./../../../san-pham/mimami-tea-green/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 01:31:18 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/nutritous/?post_type=product&#038;p=882</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=882</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -446,19 +446,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/nutritous/san-pham/mimami-tea-green/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../san-pham/mimami-tea-green/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ice Cream Milk</title>
-		<link>http://luhuuduc.github.io/nutritous/san-pham/ice-cream-milk/</link>
-					<comments>http://luhuuduc.github.io/nutritous/san-pham/ice-cream-milk/#respond</comments>
+		<link>./../../../san-pham/ice-cream-milk/index.html</link>
+					<comments>./../../../san-pham/ice-cream-milk/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[luhuuduc]]></dc:creator>
 		<pubDate>Tue, 11 Oct 2022 14:47:47 +0000</pubDate>
-				<guid isPermaLink="false">http://luhuuduc.github.io/nutritous/?post_type=product&#038;p=851</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=851</guid>
 
 					<description><![CDATA[Nam nec tellus a odio tincid unt auctor a ornare odio. Sed nonauris vitae erat conse quat auctor. Consectetur adipiscing elit suspendisse. Proin gravida nibh vel velit auctor aliquet.]]></description>
 										<content:encoded><![CDATA[<div class="vc_row wpb_row">
@@ -494,7 +494,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://luhuuduc.github.io/nutritous/san-pham/ice-cream-milk/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../san-pham/ice-cream-milk/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Các phản hồi luận về: Khoaimon tea	</title>
-	<atom:link href="http://luhuuduc.github.io/nutritous/san-pham/mimami-khoaimon-2/feed/" rel="self" type="application/rss+xml" />
-	<link>http://luhuuduc.github.io/nutritous/san-pham/mimami-khoaimon-2/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Tue, 18 Oct 2022 06:44:59 +0000</lastBuildDate>
 	<sy:updatePeriod>

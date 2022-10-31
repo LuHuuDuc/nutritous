@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Các phản hồi luận về: Clementine tea	</title>
-	<atom:link href="http://luhuuduc.github.io/nutritous/san-pham/clementine-cake-2/feed/" rel="self" type="application/rss+xml" />
-	<link>http://luhuuduc.github.io/nutritous/san-pham/clementine-cake-2/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Tue, 18 Oct 2022 07:17:55 +0000</lastBuildDate>
 	<sy:updatePeriod>

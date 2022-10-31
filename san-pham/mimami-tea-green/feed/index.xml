@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Các phản hồi luận về: Mimami Tea Green	</title>
-	<atom:link href="http://luhuuduc.github.io/nutritous/san-pham/mimami-tea-green/feed/" rel="self" type="application/rss+xml" />
-	<link>http://luhuuduc.github.io/nutritous/san-pham/mimami-tea-green/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Wed, 12 Oct 2022 03:09:41 +0000</lastBuildDate>
 	<sy:updatePeriod>

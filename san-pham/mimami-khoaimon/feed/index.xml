@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Các phản hồi luận về: Mimami Khoaimon	</title>
-	<atom:link href="http://luhuuduc.github.io/nutritous/san-pham/mimami-khoaimon/feed/" rel="self" type="application/rss+xml" />
-	<link>http://luhuuduc.github.io/nutritous/san-pham/mimami-khoaimon/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Wed, 12 Oct 2022 03:10:18 +0000</lastBuildDate>
 	<sy:updatePeriod>

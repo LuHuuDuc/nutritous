@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Các phản hồi luận về: Strawberry Delight	</title>
-	<atom:link href="http://luhuuduc.github.io/nutritous/san-pham/strawberry-delight/feed/" rel="self" type="application/rss+xml" />
-	<link>http://luhuuduc.github.io/nutritous/san-pham/strawberry-delight/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Wed, 12 Oct 2022 03:09:23 +0000</lastBuildDate>
 	<sy:updatePeriod>

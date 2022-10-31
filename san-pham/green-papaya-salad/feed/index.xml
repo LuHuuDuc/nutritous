@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Các phản hồi luận về: Green papaya salad	</title>
-	<atom:link href="http://luhuuduc.github.io/nutritous/san-pham/green-papaya-salad/feed/" rel="self" type="application/rss+xml" />
-	<link>http://luhuuduc.github.io/nutritous/san-pham/green-papaya-salad/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Tue, 18 Oct 2022 07:49:30 +0000</lastBuildDate>
 	<sy:updatePeriod>

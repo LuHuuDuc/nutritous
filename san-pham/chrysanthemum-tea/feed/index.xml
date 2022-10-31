@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Các phản hồi luận về: Chrysan Tea	</title>
-	<atom:link href="http://luhuuduc.github.io/nutritous/san-pham/chrysanthemum-tea/feed/" rel="self" type="application/rss+xml" />
-	<link>http://luhuuduc.github.io/nutritous/san-pham/chrysanthemum-tea/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Tue, 18 Oct 2022 07:44:26 +0000</lastBuildDate>
 	<sy:updatePeriod>

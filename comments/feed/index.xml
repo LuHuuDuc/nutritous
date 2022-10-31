@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Bình luận cho Cửa Hàng	</title>
-	<atom:link href="http://luhuuduc.github.io/nutritous/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://luhuuduc.github.io/nutritous</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description></description>
 	<lastBuildDate>Sun, 30 Oct 2022 16:30:40 +0000</lastBuildDate>
 	<sy:updatePeriod>

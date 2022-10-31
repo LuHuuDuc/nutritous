@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Các phản hồi luận về: Sour cherry soup	</title>
-	<atom:link href="http://luhuuduc.github.io/nutritous/san-pham/sour-cherry-soup/feed/" rel="self" type="application/rss+xml" />
-	<link>http://luhuuduc.github.io/nutritous/san-pham/sour-cherry-soup/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Sat, 15 Oct 2022 14:52:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
